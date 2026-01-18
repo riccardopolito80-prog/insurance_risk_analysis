@@ -1,0 +1,9 @@
+Insurance-SQL-Analytics/
+│
+├── sql_scripts/
+│   ├── 1_setup_database.sql    <-- Crea tabelle e inserisce dati (DDL/DML)
+│   └── 2_advanced_analysis.sql <-- Il TUO capolavoro (CTEs, Window Functions)
+│
+├── main.py                     <-- Esegue tutto e genera il report
+├── requirements.txt
+└── README.md
